@@ -3,7 +3,6 @@ import string, random
 passSize = 0
 enableSpecialChars = False
 specialCharacters = '!@#$%^&*'
-password = ''
 
 
 def setSpecialChars():
